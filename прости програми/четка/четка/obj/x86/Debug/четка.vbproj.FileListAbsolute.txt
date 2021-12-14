@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\четка\bin\Debug\четка.exe
+C:\Users\User\AppData\Local\Temporary Projects\четка\bin\Debug\четка.pdb
+C:\Users\User\AppData\Local\Temporary Projects\четка\bin\Debug\четка.xml
+C:\Users\User\AppData\Local\Temporary Projects\четка\obj\x86\Debug\четка.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\четка\obj\x86\Debug\четка.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\четка\obj\x86\Debug\четка.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\четка\obj\x86\Debug\четка.exe
+C:\Users\User\AppData\Local\Temporary Projects\четка\obj\x86\Debug\четка.xml
+C:\Users\User\AppData\Local\Temporary Projects\четка\obj\x86\Debug\четка.pdb
+D:\Mои работи\програми\visual basic\четка\четка\obj\x86\Debug\четка.exe
+D:\Mои работи\програми\visual basic\четка\четка\obj\x86\Debug\четка.xml
+D:\Mои работи\програми\visual basic\четка\четка\obj\x86\Debug\четка.pdb
+D:\Mои работи\програми\visual basic\четка\четка\bin\Debug\четка.exe
+D:\Mои работи\програми\visual basic\четка\четка\bin\Debug\четка.pdb
+D:\Mои работи\програми\visual basic\четка\четка\bin\Debug\четка.xml
+D:\Mои работи\програми\visual basic\четка\четка\obj\x86\Debug\четка.Form1.resources
+D:\Mои работи\програми\visual basic\четка\четка\obj\x86\Debug\четка.Resources.resources
+D:\Mои работи\програми\visual basic\четка\четка\obj\x86\Debug\четка.vbproj.GenerateResource.Cache

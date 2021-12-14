@@ -1,0 +1,23 @@
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\bin\Debug\lucky 7.exe
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\bin\Debug\lucky 7.pdb
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\bin\Debug\lucky 7.xml
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.vbproj.GenerateResource.Cache
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.exe
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.xml
+D:\мои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.pdb
+D:\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.exe
+D:\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.xml
+D:\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.pdb
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\bin\Debug\lucky 7.exe
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\bin\Debug\lucky 7.pdb
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\bin\Debug\lucky 7.xml
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.vbproj.AssemblyReference.cache
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.vbproj.GenerateResource.cache
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.vbproj.CoreCompileInputs.cache
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.exe
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.xml
+D:\Mои работи\Mои работи\програми\visual basic\lucky 7\lucky 7\obj\x86\Debug\lucky 7.pdb

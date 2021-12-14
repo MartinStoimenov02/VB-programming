@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\bin\Debug\цветовете на дъгата.exe
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\bin\Debug\цветовете на дъгата.pdb
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\bin\Debug\цветовете на дъгата.xml
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.exe
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.xml
+D:\Mои работи\програми\visual basic\цветовете на дъгата\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.pdb

@@ -1,0 +1,18 @@
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\bin\Debug\Motivacionna_pr.Programirane.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\bin\Debug\Motivacionna_pr.Programirane.pdb
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\bin\Debug\Motivacionna_pr.Programirane.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.Form1.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.Resources.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna pr. Programirane.vbproj.GenerateResource.Cache
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.pdb
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.exe
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.xml
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.pdb
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\bin\Debug\Motivacionna_pr.Programirane.exe
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\bin\Debug\Motivacionna_pr.Programirane.pdb
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\bin\Debug\Motivacionna_pr.Programirane.xml
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.Form1.resources
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna_pr.Programirane.Resources.resources
+D:\User\Downloads\Motivacionna pr. Programirane\Motivacionna pr. Programirane\Motivacionna pr. Programirane\obj\x86\Debug\Motivacionna pr. Programirane.vbproj.GenerateResource.Cache

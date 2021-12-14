@@ -1,0 +1,21 @@
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\bin\Debug\calculator-official.exe
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\bin\Debug\calculator-official.pdb
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\bin\Debug\calculator-official.xml
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.vbproj.GenerateResource.Cache
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.exe
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.xml
+D:\мои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.pdb
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.exe
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.xml
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.pdb
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\bin\Debug\calculator-official.exe
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\bin\Debug\calculator-official.pdb
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\bin\Debug\calculator-official.xml
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.vbproj.GenerateResource.Cache
+D:\Mои работи\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.exe
+D:\Mои работи\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.xml
+D:\Mои работи\Mои работи\програми\visual basic\calculator-official\calculator-official\obj\x86\Debug\calculator-official.pdb

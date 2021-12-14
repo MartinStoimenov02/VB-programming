@@ -1,0 +1,29 @@
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.pdb
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno_ur.Form1.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno_ur.Resources.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.vbproj.GenerateResource.Cache
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.pdb
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.exe
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.xml
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.pdb
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.exe
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.pdb
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.xml
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno_ur.Form1.resources
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno_ur.Resources.resources
+D:\User\Downloads\Kvadratno ur\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.vbproj.GenerateResource.Cache
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.exe
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.vbproj.AssemblyReference.cache
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno_ur.Form1.resources
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno_ur.Resources.resources
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.vbproj.GenerateResource.cache
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.vbproj.CoreCompileInputs.cache
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.exe
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.xml
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\obj\x86\Debug\Kvadratno ur.pdb
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.pdb
+D:\Mои работи\Mои работи\програми\visual basic\Kvadratno ur\Kvadratno ur\bin\Debug\Kvadratno ur.xml

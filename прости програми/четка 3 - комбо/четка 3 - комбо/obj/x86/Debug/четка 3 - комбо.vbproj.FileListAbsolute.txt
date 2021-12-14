@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\bin\Debug\четка 3 - комбо.exe
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\bin\Debug\четка 3 - комбо.pdb
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\bin\Debug\четка 3 - комбо.xml
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\obj\x86\Debug\четка 3 - комбо.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\obj\x86\Debug\четка 3 - комбо.exe
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\obj\x86\Debug\четка 3 - комбо.xml
+D:\Mои работи\програми\visual basic\четка 3 - комбо\четка 3 - комбо\obj\x86\Debug\четка 3 - комбо.pdb

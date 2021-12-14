@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "figuri", "figuri\figuri.vbproj", "{8169D335-E873-4F55-973C-B328B7BF2FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8169D335-E873-4F55-973C-B328B7BF2FFD}.Debug|x86.ActiveCfg = Debug|x86
+		{8169D335-E873-4F55-973C-B328B7BF2FFD}.Debug|x86.Build.0 = Debug|x86
+		{8169D335-E873-4F55-973C-B328B7BF2FFD}.Release|x86.ActiveCfg = Release|x86
+		{8169D335-E873-4F55-973C-B328B7BF2FFD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

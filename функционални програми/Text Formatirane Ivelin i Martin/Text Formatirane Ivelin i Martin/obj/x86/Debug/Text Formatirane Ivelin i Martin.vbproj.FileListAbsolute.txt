@@ -1,0 +1,21 @@
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text_Formatirane_Ivelin_i_Martin.Form1.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text_Formatirane_Ivelin_i_Martin.Resources.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.vbproj.GenerateResource.Cache
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\bin\Debug\Text Formatirane Ivelin i Martin.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\bin\Debug\Text Formatirane Ivelin i Martin.pdb
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\bin\Debug\Text Formatirane Ivelin i Martin.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.pdb
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.exe
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.xml
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.pdb
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\bin\Debug\Text Formatirane Ivelin i Martin.exe
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\bin\Debug\Text Formatirane Ivelin i Martin.pdb
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\bin\Debug\Text Formatirane Ivelin i Martin.xml
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text_Formatirane_Ivelin_i_Martin.Form1.resources
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text_Formatirane_Ivelin_i_Martin.Resources.resources
+D:\User\Downloads\Text_Formatirane_Ivelin_i_Martin\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.exe
+D:\Mои работи\програми\visual basic\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.xml
+D:\Mои работи\програми\visual basic\Text Formatirane Ivelin i Martin\Text Formatirane Ivelin i Martin\obj\x86\Debug\Text Formatirane Ivelin i Martin.pdb

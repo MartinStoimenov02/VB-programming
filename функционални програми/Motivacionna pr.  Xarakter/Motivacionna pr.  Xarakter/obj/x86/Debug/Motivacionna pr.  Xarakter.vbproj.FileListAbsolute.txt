@@ -1,0 +1,23 @@
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\bin\Debug\Motivacionna_pr.Xarakter.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\bin\Debug\Motivacionna_pr.Xarakter.pdb
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\bin\Debug\Motivacionna_pr.Xarakter.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.Form1.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.Resources.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna pr.  Xarakter.vbproj.GenerateResource.Cache
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.pdb
+D:\User\Downloads\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.exe
+D:\User\Downloads\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.xml
+D:\User\Downloads\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.pdb
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\bin\Debug\Motivacionna_pr.Xarakter.exe
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\bin\Debug\Motivacionna_pr.Xarakter.pdb
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\bin\Debug\Motivacionna_pr.Xarakter.xml
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna pr.  Xarakter.vbproj.AssemblyReference.cache
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.Form1.resources
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.Resources.resources
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna pr.  Xarakter.vbproj.GenerateResource.cache
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna pr.  Xarakter.vbproj.CoreCompileInputs.cache
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.exe
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.xml
+D:\Mои работи\GitHub\VB-programming\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\Motivacionna pr.  Xarakter\obj\x86\Debug\Motivacionna_pr.Xarakter.pdb

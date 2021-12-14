@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\тапети\тапети\bin\Debug\тапети.exe
+D:\Mои работи\програми\visual basic\тапети\тапети\bin\Debug\тапети.pdb
+D:\Mои работи\програми\visual basic\тапети\тапети\bin\Debug\тапети.xml
+D:\Mои работи\програми\visual basic\тапети\тапети\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\тапети\тапети\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\тапети\тапети\obj\x86\Debug\тапети.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\тапети\тапети\obj\x86\Debug\тапети.exe
+D:\Mои работи\програми\visual basic\тапети\тапети\obj\x86\Debug\тапети.xml
+D:\Mои работи\програми\visual basic\тапети\тапети\obj\x86\Debug\тапети.pdb

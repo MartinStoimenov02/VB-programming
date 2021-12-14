@@ -1,0 +1,9 @@
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\obj\x86\Debug\Torta.Form1.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\obj\x86\Debug\Torta.Resources.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\obj\x86\Debug\Torta.vbproj.GenerateResource.Cache
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\bin\Debug\Torta.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\bin\Debug\Torta.pdb
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\bin\Debug\Torta.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\obj\x86\Debug\Torta.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\obj\x86\Debug\Torta.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Torta\Torta\obj\x86\Debug\Torta.pdb

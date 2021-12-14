@@ -1,0 +1,35 @@
+﻿Public Class Form1
+    Private Sub Form1_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Me.Paint
+        Dim pen As New Pen(Color.Yellow, 3)
+        e.Graphics.FillEllipse(Brushes.Yellow, 200, 50, 50, 50)
+        e.Graphics.DrawLine(pen, 175, 25, 275, 125)
+        e.Graphics.DrawLine(pen, 275, 25, 175, 125)
+        e.Graphics.DrawLine(pen, 150, 75, 300, 75)
+        e.Graphics.DrawLine(pen, 225, 0, 225, 150)
+        e.Graphics.FillRectangle(Brushes.Gray, 200, 240, 100, 60)
+        Dim pointsHouse() As Point = {New Point(175, 240), New Point(250, 180), New Point(325, 240)}
+        e.Graphics.FillPolygon(Brushes.Red, pointsHouse)
+        e.Graphics.DrawEllipse(Pens.Brown, 240, 200, 25, 25)
+        e.Graphics.FillEllipse(Brushes.Blue, 240, 200, 25, 25)
+        e.Graphics.DrawLine(Pens.Brown, 252, 200, 252, 225)
+        e.Graphics.DrawLine(Pens.Brown, 240, 212, 265, 212)
+        e.Graphics.DrawRectangle(Pens.Brown, 265, 250, 25, 25)
+        e.Graphics.FillRectangle(Brushes.Blue, 265, 250, 25, 25)
+        e.Graphics.DrawLine(Pens.Brown, 277, 250, 277, 275)
+        e.Graphics.DrawLine(Pens.Brown, 265, 262, 290, 262)
+        e.Graphics.FillRectangle(Brushes.SandyBrown, 208, 250, 30, 50)
+        e.Graphics.FillRectangle(Brushes.Green, 0, 300, 450, 100)
+        e.Graphics.FillRectangle(Brushes.Brown, 130, 190, 25, 170)
+        e.Graphics.FillEllipse(Brushes.Green, 100, 130, 80, 80)
+        e.Graphics.FillEllipse(Brushes.Green, 80, 160, 80, 80)
+        e.Graphics.FillEllipse(Brushes.Green, 130, 160, 80, 80)
+        e.Graphics.FillRectangle(Brushes.Brown, 320, 170, 25, 170)
+        e.Graphics.FillEllipse(Brushes.Green, 290, 100, 80, 80)
+        e.Graphics.FillEllipse(Brushes.Green, 270, 130, 80, 80)
+        e.Graphics.FillEllipse(Brushes.Green, 320, 130, 80, 80)
+        e.Graphics.FillEllipse(Brushes.Gray, 270, 10, 50, 50)
+        e.Graphics.FillEllipse(Brushes.Gray, 250, 40, 50, 50)
+        e.Graphics.FillEllipse(Brushes.Gray, 290, 40, 50, 50)
+
+    End Sub
+End Class

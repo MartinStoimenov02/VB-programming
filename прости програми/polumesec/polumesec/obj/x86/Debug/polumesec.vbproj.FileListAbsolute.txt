@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\bin\Debug\polumesec.exe
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\bin\Debug\polumesec.pdb
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\bin\Debug\polumesec.xml
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\obj\x86\Debug\polumesec.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\obj\x86\Debug\polumesec.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\obj\x86\Debug\polumesec.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\obj\x86\Debug\polumesec.exe
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\obj\x86\Debug\polumesec.xml
+C:\Users\User\AppData\Local\Temporary Projects\polumesec\obj\x86\Debug\polumesec.pdb
+D:\Mои работи\програми\visual basic\polumesec\polumesec\obj\x86\Debug\polumesec.exe
+D:\Mои работи\програми\visual basic\polumesec\polumesec\obj\x86\Debug\polumesec.xml
+D:\Mои работи\програми\visual basic\polumesec\polumesec\obj\x86\Debug\polumesec.pdb
+D:\Mои работи\програми\visual basic\polumesec\polumesec\bin\Debug\polumesec.exe
+D:\Mои работи\програми\visual basic\polumesec\polumesec\bin\Debug\polumesec.pdb
+D:\Mои работи\програми\visual basic\polumesec\polumesec\bin\Debug\polumesec.xml
+D:\Mои работи\програми\visual basic\polumesec\polumesec\obj\x86\Debug\polumesec.Form1.resources
+D:\Mои работи\програми\visual basic\polumesec\polumesec\obj\x86\Debug\polumesec.Resources.resources
+D:\Mои работи\програми\visual basic\polumesec\polumesec\obj\x86\Debug\polumesec.vbproj.GenerateResource.Cache

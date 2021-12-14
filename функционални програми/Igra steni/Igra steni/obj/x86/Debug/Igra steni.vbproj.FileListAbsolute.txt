@@ -1,0 +1,15 @@
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\bin\Debug\Igra steni.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\bin\Debug\Igra steni.pdb
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\bin\Debug\Igra steni.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\obj\x86\Debug\Igra_steni.Form1.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\obj\x86\Debug\Igra_steni.Resources.resources
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\obj\x86\Debug\Igra steni.vbproj.GenerateResource.Cache
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\obj\x86\Debug\Igra steni.exe
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\obj\x86\Debug\Igra steni.xml
+C:\Users\Ivelin\Desktop\School\Visual Studio 2010\Projects\Igra steni\Igra steni\obj\x86\Debug\Igra steni.pdb
+D:\User\Downloads\Igra steni\Igra steni\Igra steni\obj\x86\Debug\Igra steni.exe
+D:\User\Downloads\Igra steni\Igra steni\Igra steni\obj\x86\Debug\Igra steni.xml
+D:\User\Downloads\Igra steni\Igra steni\Igra steni\obj\x86\Debug\Igra steni.pdb
+D:\Mои работи\програми\visual basic\Igra steni\Igra steni\obj\x86\Debug\Igra steni.exe
+D:\Mои работи\програми\visual basic\Igra steni\Igra steni\obj\x86\Debug\Igra steni.xml
+D:\Mои работи\програми\visual basic\Igra steni\Igra steni\obj\x86\Debug\Igra steni.pdb

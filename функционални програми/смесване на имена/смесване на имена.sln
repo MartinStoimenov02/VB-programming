@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "смесване на имена", "смесване на имена\смесване на имена.vbproj", "{883A6825-2DD2-4972-9A12-4408DAC94728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883A6825-2DD2-4972-9A12-4408DAC94728}.Debug|x86.ActiveCfg = Debug|x86
+		{883A6825-2DD2-4972-9A12-4408DAC94728}.Debug|x86.Build.0 = Debug|x86
+		{883A6825-2DD2-4972-9A12-4408DAC94728}.Release|x86.ActiveCfg = Release|x86
+		{883A6825-2DD2-4972-9A12-4408DAC94728}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

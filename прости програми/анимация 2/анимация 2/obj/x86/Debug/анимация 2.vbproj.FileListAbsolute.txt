@@ -1,0 +1,9 @@
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\bin\Debug\анимация 2.exe
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\bin\Debug\анимация 2.pdb
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\bin\Debug\анимация 2.xml
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\obj\x86\Debug\анимация 2.vbproj.GenerateResource.Cache
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\obj\x86\Debug\анимация 2.exe
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\obj\x86\Debug\анимация 2.xml
+D:\мои работи\програми\visual basic\анимация 2\анимация 2\obj\x86\Debug\анимация 2.pdb

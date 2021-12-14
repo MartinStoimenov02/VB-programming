@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\bin\Debug\формуляр за фото.exe
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\bin\Debug\формуляр за фото.pdb
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\bin\Debug\формуляр за фото.xml
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\obj\x86\Debug\формуляр за фото.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\obj\x86\Debug\формуляр за фото.exe
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\obj\x86\Debug\формуляр за фото.xml
+D:\Mои работи\програми\visual basic\формуляр за фото\формуляр за фото\obj\x86\Debug\формуляр за фото.pdb

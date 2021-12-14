@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\bin\Debug\клавиатура.exe
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\bin\Debug\клавиатура.pdb
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\bin\Debug\клавиатура.xml
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\obj\x86\Debug\клавиатура.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\obj\x86\Debug\клавиатура.exe
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\obj\x86\Debug\клавиатура.xml
+D:\Mои работи\програми\visual basic\клавиатура\клавиатура\obj\x86\Debug\клавиатура.pdb

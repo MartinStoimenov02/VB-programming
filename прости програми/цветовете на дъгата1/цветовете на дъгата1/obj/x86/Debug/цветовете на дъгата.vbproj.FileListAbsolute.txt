@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\bin\Debug\цветовете на дъгата.exe
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\bin\Debug\цветовете на дъгата.pdb
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\bin\Debug\цветовете на дъгата.xml
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\obj\x86\Debug\цветовете_на_дъгата.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\obj\x86\Debug\цветовете_на_дъгата.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.exe
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.xml
+C:\Users\User\AppData\Local\Temporary Projects\цветовете на дъгата\obj\x86\Debug\цветовете на дъгата.pdb

@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\bin\Debug\txt in figura.exe
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\bin\Debug\txt in figura.pdb
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\bin\Debug\txt in figura.xml
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\obj\x86\Debug\txt in figura.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\obj\x86\Debug\txt in figura.exe
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\obj\x86\Debug\txt in figura.xml
+D:\Mои работи\програми\visual basic\txt in figura\txt in figura\obj\x86\Debug\txt in figura.pdb

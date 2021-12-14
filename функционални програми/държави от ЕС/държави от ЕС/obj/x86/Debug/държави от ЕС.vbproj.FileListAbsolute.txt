@@ -1,0 +1,9 @@
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\bin\Debug\държави от ЕС.exe
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\bin\Debug\държави от ЕС.pdb
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\bin\Debug\държави от ЕС.xml
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\obj\x86\Debug\държави от ЕС.vbproj.GenerateResource.Cache
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\obj\x86\Debug\държави от ЕС.exe
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\obj\x86\Debug\държави от ЕС.xml
+D:\Mои работи\програми\visual basic\държави от ЕС\държави от ЕС\obj\x86\Debug\държави от ЕС.pdb
