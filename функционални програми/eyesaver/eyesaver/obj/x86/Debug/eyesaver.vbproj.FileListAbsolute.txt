@@ -1,0 +1,12 @@
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\bin\Debug\eyesaver.exe
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\bin\Debug\eyesaver.pdb
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\bin\Debug\eyesaver.xml
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.vbproj.GenerateResource.Cache
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.exe
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.xml
+D:\мои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.pdb
+D:\Mои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.exe
+D:\Mои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.xml
+D:\Mои работи\програми\visual basic\eyesaver\eyesaver\obj\x86\Debug\eyesaver.pdb
