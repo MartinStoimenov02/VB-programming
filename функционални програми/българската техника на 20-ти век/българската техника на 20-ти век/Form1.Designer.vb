@@ -54,8 +54,8 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(964, 20)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "След 1990 г. Вазовските машиностроителни заводи произвеждат уред с марка УЮТ. Как" & _
-            "во представлява той?"
+        Me.Label1.Text = "След 1990 г. Вазовските машиностроителни заводи произвеждат уред с марка УЮТ. Как" &
+    "во представлява той?"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'Button2
